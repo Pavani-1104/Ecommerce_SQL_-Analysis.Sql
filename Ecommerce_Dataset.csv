@@ -1,0 +1,8 @@
+CustomerID,CustomerName,City,OrderID,TotalAmount,ProductName,Price
+1,Pavani,Hyd,301,17000,Smart Watch,15000
+1,Pavani,Hyd,301,17000,Headset,2500
+2,Sneha,Warangal,302,8000,Study Table,8000
+3,Anjali,Karimnagar,303,3100,Laptop Bag,2000
+3,Anjali,Karimnagar,303,3100,Sipper Bottle,600
+1,Pavani,Hyd,304,600,Sipper Bottle,600
+4,Ravi,Vizag,305,2000,Laptop Bag,2000
