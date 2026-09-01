@@ -1,0 +1,18 @@
+-- =============================================
+-- Project: Ecommerce SQL Analysis
+-- Author: Pavani
+-- Task: 3 - Elevate Labs
+-- Database: SQLite
+-- =============================================
+
+-- Clean existing tables
+DROP TABLE IF EXISTS Order_Items;
+DROP TABLE IF EXISTS Orders;
+DROP TABLE IF EXISTS Products;
+DROP TABLE IF EXISTS Customers;
+DROP VIEW IF EXISTS Customer_Spending;
+
+-- 1. Customers Table
+CREATE TABLE Customers (
+    CustomerID INTEGER PRIMARY KEY,
+    CustomerName TEXT NOT
