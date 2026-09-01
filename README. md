@@ -1,0 +1,23 @@
+# Task 3 - SQL for Data Analysis | Elevate Labs
+**Intern:** Pavani | Data Analyst Internship
+
+## Project: Ecommerce Store Database
+Created a complete Ecommerce database with 4 tables - Customers, Products, Orders, Order_Items.
+
+## Tools
+- sqliteonline.com
+- SQLite
+
+## Tables
+- Customers (5), Products (5), Orders (5), Order_Items (8)
+
+## Queries Done
+✅ SELECT, WHERE, ORDER BY, GROUP BY
+✅ INNER JOIN, LEFT JOIN, Multi JOIN
+✅ Subquery - Avg Price & High Value Customers
+✅ SUM, AVG with GROUP BY
+✅ VIEW - Customer_Spending
+✅ INDEX for optimization
+
+## Files
+- Ecommerce_SQL_Analysis.sql -
